@@ -1,0 +1,111 @@
+#body 
+{
+    background-color: #2db5e2;
+    height: 100%;
+    min-height: 100%;
+    width: auto;
+    
+}
+#header
+{
+    background-color: darkgray;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+}
+#footer
+{
+    width: 100%;
+    background-color: darkgrey;
+    height: 150px;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    margin-top: 50px;
+   
+    
+}
+#gameDiv
+{
+    background-color: green;
+    border-radius: 10px;
+    width: 800px;
+    min-height: 100%;
+    height: 1000px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 100px;
+}
+#scoresDiv
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 550px;
+    height: 550px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 50px;
+}
+#navTag
+{
+    float: right;
+}
+#molePic
+{
+   width: 55px;
+   height: 60px;
+}
+#scoresTR
+{
+    background-color: lightgreen;
+    height: 50px;
+}
+#scoreTag
+{
+    padding: 5px 5px 5px 5px;
+    font-family: Georgia, Serif;
+    color: black;
+    font-size: large;
+    text-align: left;
+}
+#phraseTag
+{
+    padding: 5px 5px 5px 5px;
+    font-family: Georgia, Serif;
+    color: black;
+    text-align: center;
+}
+#highScoreTag
+{
+    padding: 5px 5px 5px 5px;
+    font-family: Georgia, Serif;
+    color: black;
+    font-size: large;
+    text-align: right;
+}
+#startBtn
+{
+    height: 50px;
+    width: 75px;
+    font-size: 25px;
+    border-radius: 15px;
+}
+#restartBtn
+{
+    height: 50px;
+    font-size: 25px;
+    border-radius: 15px;
+    width: 100px;
+}
+table
+{
+    table-layout: fixed;
+
+}
+img
+{
+    max-height: 75px;
+    max-width: 65px;
+}
+.grass
+{
+   
+}
